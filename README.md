@@ -33,6 +33,3 @@ If you don't care about the graph, you can simply remove it from this layout, [a
 ## License
 
 Source code is available under the [MIT license](LICENSE.md).
-
-
-test
